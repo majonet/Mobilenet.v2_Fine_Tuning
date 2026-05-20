@@ -6,7 +6,10 @@
 
 This project provides a PyTorch-based pipeline to fine-tune a MobileNetV2 SSD Lite object detection model. The provided code is specifically configured to train on the FLIR ADAS Thermal Dataset (formatted as PASCAL VOC), classifying objects into three categories: `background`, `person`, and `car`. It includes comprehensive data augmentation, custom multibox loss with hard negative mining, and an inference script to test the model on new images.
 ## Simple Test Image
-![Detection Result](output/result5.jpg)
+<p align="center">
+  <img src="output/result5.jpg" width="300" height="300" alt="First Image Description" />
+  <img src="output/result.jpg" width="300" height="300" alt="Second Image Description" />
+</p>
 ## Dependencies
 
 Ensure you have Python 3 installed along with the following libraries:
