@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 # MobileNetV2 SSD Lite Fine-Tuning Project
 
 ## Overview
@@ -59,3 +60,5 @@ and modular training architecture for object localization tasks.
 - PyTorch
 - Data Augmentation
 - Model Fine-Tuning
+=======
+>>>>>>> 735582b21a514571beefbbfcab419fcc2f12fd5d
